@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string>
+
 using namespace std;
 
 string linearsearch(int arr[],int n, int key)
